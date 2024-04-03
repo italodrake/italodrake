@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/italodrake">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italodrake&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italodrake&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italodrake&layout=compact&langs_count=6&theme=monokai"/>
 </div>
     
