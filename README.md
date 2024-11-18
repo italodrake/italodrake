@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do ÍtaloDrake 😁
+## Bem-vindo(a) ao perfil do Ítalo Silva 😁
 
  <div>
    <a href="https://github.com/italodrake">
